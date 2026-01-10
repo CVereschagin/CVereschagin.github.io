@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "My name is Carter Vereschagin, and I am currently working as a general manager at a local manufacturing facility where we fabricate stainless steel products for process pipe insulation. I am currently in my final semester of a bachelors degree in commerce from the University of Alberta with a focus in finance. In particular, I have a strong interest in data analysis and software development where I can build tools to target business inefficiencies. With experience in Python, R, SQL, and Javascript, I have begun creating a fully customized system that is tailored to my current business workflows increasing efficiency and automation within my work environment. I have a strong aptitude for self learning and a generally curious mind. At the age of 17 I purchased my first vehicle, a 2006 Mazda 6 with a non running engine for $500. Without any mentors or experience, I just began taking it apart and was able to fully dissemble and replace the engine with a used one from an auto wrecker. 7 years later, I am still driving that car as my main transportation. I really enjoy learning new thing and expanding my knowledge base, this lead me to the re-engineering of our process machines at the manufacturing facility. Our current production equipment is over 20 years old with components that are discontinued and increasingly hard to find with much higher costs. I was able to work with an engineering company to design and build a new control cabinet and then proceeded to learn the old programming language so that I could rewrite the process logic in the new programming language. Plc programming is quite proprietary and vastly different between hardware manufacturers so this was a very fun project with many different avenues to explore. I am always looking to expand my skills and really enjoy problem solving, and generally learning about things I do not understand."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
